@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash Nagi I Get Things Done</h1>
 <h3 align="center">A passionate Python/Django developer from India</h3>
 
-- 👯 I’m looking to collaborate on **Python,Shopify,Wordpress**
+- 👯 I’m looking to collaborate on **Python,Shopify,Javascript,Wordpress**
 
-- 💬 Ask me about **Django,Shopify,Wordpress**
+- 💬 Ask me about **Django,Shopify,Javascript,Wordpress**
 
 - 📫 How to reach me **nagiakash7@gmail.com**
 
